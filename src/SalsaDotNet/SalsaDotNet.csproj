@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <Version>1.0.0</Version>
+        <Authors>Samuel Lucas</Authors>
+        <Description>A .NET implementation of Salsa20, Salsa20/12, and Salsa20/8.</Description>
+        <Copyright>Copyright (c) 2022 Samuel Lucas</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/samuel-lucas6/Salsa.NET</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/samuel-lucas6/Salsa.NET</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>salsa20 salsa12 salsa8</PackageTags>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+</Project>
